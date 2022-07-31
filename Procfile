@@ -1,1 +1,1 @@
-web: gunicorn wsgi:your_app
+web: gunicorn wsgi:MyOIWorld
